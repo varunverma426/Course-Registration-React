@@ -1,0 +1,12 @@
+
+.btndiv{
+    display:flex;
+    justify-content:space-between;
+}
+
+.cards{
+    width:32vw;
+      }
+
+
+

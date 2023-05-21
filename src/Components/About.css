@@ -1,0 +1,20 @@
+.styleabout{
+    font-size: 4rem;
+    color: slategray;
+    text-align: center;
+}
+
+.img{
+    height: 400px;
+    width: 300px;
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto; */
+}
+.paragraph{
+    font-family:monospace;
+}
+
+.nameheading{
+    font-family: cursive;
+}
